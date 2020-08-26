@@ -1,4 +1,4 @@
-# PROJECTS
+# IBM LOAN Data ANALYSIS
 Supervised learning with Machine Learning algorithms
 This repository is a hands-on project by IBM
 
