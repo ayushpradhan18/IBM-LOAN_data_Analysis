@@ -1,6 +1,6 @@
 # PROJECTS
 Supervised learning with Machine Learning algorithms
-This repository is a hands-on project performed during the Machine Learning course by IBM/Coursera
+This repository is a hands-on project by IBM
 
 Prerequisites
 Jupyter Notebook
